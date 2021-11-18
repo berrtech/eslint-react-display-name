@@ -1,0 +1,24 @@
+{
+  "name": "eslint-react-display-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint": "7.x.x",
+    "eslint-config-airbnb": "17.x.x",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "mobx-react": "^7.2.1",
+    "react": "^17.0.2"
+  }
+}
